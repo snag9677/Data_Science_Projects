@@ -1,5 +1,5 @@
 # Data_Science_Projects
-My data science projects throughout my course
+Data science projects throughout my course
 
 The projects include:
 1) Machine Learning with Python:- 
